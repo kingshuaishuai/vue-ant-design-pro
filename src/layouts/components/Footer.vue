@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>Footer</div>
+    Ant Design Pro ©2019 Created by Wang Yishuai
   </div>
 </template>
 
